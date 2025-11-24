@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f3f3;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 20px;
+}
+
+.navbar {
+  background: #333;
+  padding: 10px;
+}
+
+.navbar button {
+  margin-right: 10px;
+  padding: 10px 15px;
+  background: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
