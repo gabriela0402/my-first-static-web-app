@@ -1,8 +1,10 @@
 import React from 'react';
+import Curriculo from './components/Curriculo';
 
 function App() {
-  const value = 'World';
-  return <div>Hello {value}</div>;
+  return(
+    <Curriculo/>
+  )
 }
 
 export default App;
